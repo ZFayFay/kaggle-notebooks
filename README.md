@@ -1,7 +1,7 @@
 # Kaggle notebooks
 
 Original analysis notebooks I publish on Kaggle. Each folder has the notebook and a short summary.
-Profile: [kaggle.com/zfayfay](https://www.kaggle.com/zfayfay)
+Profile: [kaggle.com/zfayfay](https://www.kaggle.com/zfayfay) · Work log: [LOG.md](LOG.md)
 
 | Notebook | Question | Key result |
 |---|---|---|
