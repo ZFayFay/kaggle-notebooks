@@ -2,6 +2,12 @@
 
 Short dated notes on what I tried and what happened. Scores are real leaderboard results.
 
+## 2026-11-05
+- **Google Quantum AI (verifiable circuit compilation):** credited copy of a public refit scored **24.594** (up from 23.172).
+- **Enveda CASMI 2026:** credited copy of a public neural ensemble scored **0.480** (up from 0.476).
+- **Squares in Squares:** credited copy of a public LP refinement scored **22.2540** (down from 22.2603; lower is better).
+- Running next: public 24.80 (Quantum) and 0.672 (Name That LLM) versions.
+
 ## 2026-11-03
 - **Name That LLM:** the credited 0.666 copy scored **0.666** public LB (up from 0.662).
 - **Playground S6E11:** public notebooks now reach 0.9522 with GLM + boosting stacks and "digit" features on the generated numbers.
