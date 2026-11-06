@@ -2,6 +2,10 @@
 
 Short dated notes on what I tried and what happened. Scores are real leaderboard results.
 
+## 2026-11-06
+- **Google Quantum AI:** credited copy of a public three-task portfolio scored **24.802** (up from 24.594).
+- **Name That LLM:** credited copy of a public dual-SVC blend scored **0.668** (its title says 0.672; best so far, up from 0.666).
+
 ## 2026-11-05
 - **Google Quantum AI (verifiable circuit compilation):** credited copy of a public refit scored **24.594** (up from 23.172).
 - **Enveda CASMI 2026:** credited copy of a public neural ensemble scored **0.480** (up from 0.476).
