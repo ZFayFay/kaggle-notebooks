@@ -2,6 +2,11 @@
 
 Short dated notes on what I tried and what happened. Scores are real leaderboard results.
 
+## 2026-11-11
+- **Name That LLM:** credited copy of a public stack scored **0.680** (up from 0.668). The public frontier moved to 0.684 within two days, so rank still fell to ~706/5506.
+- **Google Quantum AI:** credited copy scored **25.148** (up from 24.802).
+- **Squares in Squares:** credited copy scored **22.2175** (down from 22.2540; lower is better).
+
 ## 2026-11-06
 - **Google Quantum AI:** credited copy of a public three-task portfolio scored **24.802** (up from 24.594).
 - **Name That LLM:** credited copy of a public dual-SVC blend scored **0.668** (its title says 0.672; best so far, up from 0.666).
