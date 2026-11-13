@@ -2,6 +2,10 @@
 
 Short dated notes on what I tried and what happened. Scores are real leaderboard results.
 
+## 2026-11-13
+- **Name That LLM:** credited copy of a public stack scored **0.684** (up from 0.680); rank back to ~396/5769, inside the bronze zone.
+- **Google Quantum AI:** credited copy scored **25.331** (up from 25.148); rank ~923/2987.
+
 ## 2026-11-11
 - **Name That LLM:** credited copy of a public stack scored **0.680** (up from 0.668). The public frontier moved to 0.684 within two days, so rank still fell to ~706/5506.
 - **Google Quantum AI:** credited copy scored **25.148** (up from 24.802).
