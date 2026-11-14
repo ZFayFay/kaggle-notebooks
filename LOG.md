@@ -2,6 +2,11 @@
 
 Short dated notes on what I tried and what happened. Scores are real leaderboard results.
 
+## 2026-11-14
+- **Name That LLM:** credited copy of a public GLM-likelihood notebook scored **0.691** (up from 0.684).
+- **Google Quantum AI:** credited copies scored **27.290** then **27.302** (up from 25.331).
+- **Enveda CASMI 2026:** two public notebooks did not reproduce in our copies (0.477 and 0.465 vs claimed 0.488); best stays 0.480.
+
 ## 2026-11-13
 - **Name That LLM:** credited copy of a public stack scored **0.684** (up from 0.680); rank back to ~396/5769, inside the bronze zone.
 - **Google Quantum AI:** credited copy scored **25.331** (up from 25.148); rank ~923/2987.
