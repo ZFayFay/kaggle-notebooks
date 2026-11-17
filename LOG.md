@@ -2,6 +2,10 @@
 
 Short dated notes on what I tried and what happened. Scores are real leaderboard results.
 
+## 2026-11-17
+- **Google Quantum AI:** credited copies of public portfolios moved us from 27.30 to **28.181**; rank ~121/3263 (silver zone).
+- **Name That LLM:** still 0.691 but rank fell to ~1016/6205 as the public frontier moved; weekly GPU quota is used up until Nov 21, so no new run until then.
+
 ## 2026-11-14
 - **Name That LLM:** credited copy of a public GLM-likelihood notebook scored **0.691** (up from 0.684).
 - **Google Quantum AI:** credited copies scored **27.290** then **27.302** (up from 25.331).
