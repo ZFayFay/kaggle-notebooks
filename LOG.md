@@ -4,7 +4,7 @@ Short dated notes on what I tried and what happened. Scores are real leaderboard
 
 ## 2026-11-19
 - **Google Quantum AI:** credited copies moved us to **28.232** (from 28.181); rank ~438/3391. The public frontier is a dense tie block around 28.18-28.24, so rank swings by hundreds of places per day.
-- **Squares in Squares:** rank improved to ~305/2258 at 22.2175 as other teams' older packings were overtaken.
+- **Squares in Squares:** rank ~305/2258 at 22.2175 (up from ~764; cause not checked).
 
 ## 2026-11-17
 - **Google Quantum AI:** credited copies of public portfolios moved us from 27.30 to **28.181**; rank ~121/3263 (silver zone).
