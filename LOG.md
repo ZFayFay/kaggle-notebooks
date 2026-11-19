@@ -2,6 +2,10 @@
 
 Short dated notes on what I tried and what happened. Scores are real leaderboard results.
 
+## 2026-11-19
+- **Google Quantum AI:** credited copies moved us to **28.232** (from 28.181); rank ~438/3391. The public frontier is a dense tie block around 28.18-28.24, so rank swings by hundreds of places per day.
+- **Squares in Squares:** rank improved to ~305/2258 at 22.2175 as other teams' older packings were overtaken.
+
 ## 2026-11-17
 - **Google Quantum AI:** credited copies of public portfolios moved us from 27.30 to **28.181**; rank ~121/3263 (silver zone).
 - **Name That LLM:** still 0.691 but rank fell to ~1016/6205 as the public frontier moved; weekly GPU quota is used up until Nov 21, so no new run until then.
