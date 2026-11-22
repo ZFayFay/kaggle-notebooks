@@ -2,6 +2,11 @@
 
 Short dated notes on what I tried and what happened. Scores are real leaderboard results.
 
+## 2026-11-22
+- **Name That LLM:** credited copies of public GLM-likelihood + user-prefix notebooks scored 0.716, then **0.718**; rank ~150/6738 (silver zone).
+- **Enveda CASMI 2026:** credited copy of a public stack scored **0.498** (up from 0.480); rank ~328/5773 (bronze zone).
+- **Google Quantum AI:** credited copies scored 33.135, then **33.139** (up from 28.238); rank ~487/3570. The public frontier is at 33.170.
+
 ## 2026-11-19
 - **Google Quantum AI:** credited copies moved us to **28.232** (from 28.181); rank ~438/3391. The public frontier is a dense tie block around 28.18-28.24, so rank swings by hundreds of places per day.
 - **Squares in Squares:** rank ~305/2258 at 22.2175 (up from ~764; cause not checked).
