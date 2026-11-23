@@ -2,6 +2,11 @@
 
 Short dated notes on what I tried and what happened. Scores are real leaderboard results.
 
+## 2026-11-23
+- **Enveda CASMI 2026:** credited copies scored 0.501, then **0.505**; rank ~164/5858 (silver zone).
+- **Google Quantum AI:** credited copies scored 33.170, then **33.170** (33.17033); rank ~325/3632 (bronze zone).
+- **Name That LLM:** credited copy scored **0.719**; rank ~264/6846 (still silver zone, but the frontier is crowded).
+
 ## 2026-11-22
 - **Name That LLM:** credited copies of public GLM-likelihood + user-prefix notebooks scored 0.716, then **0.718**; rank ~150/6738 (silver zone).
 - **Enveda CASMI 2026:** credited copy of a public stack scored **0.498** (up from 0.480); rank ~328/5773 (bronze zone).
