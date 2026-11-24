@@ -2,6 +2,11 @@
 
 Short dated notes on what I tried and what happened. Scores are real leaderboard results.
 
+## 2026-11-24
+- **Name That LLM:** credited copies scored **0.720**; rank ~205/6969. Our own tweak (one model per prompt on top of a 0.719 public pipeline) scored 0.693, so it hurt.
+- **Enveda CASMI 2026:** credited copy scored **0.506**; rank ~276/5921 (still silver zone, barely).
+- **Google Quantum AI:** credited copy scored **33.171** (33.17067), but rank fell to ~439/3672 as the public frontier moved to 33.193.
+
 ## 2026-11-23
 - **Enveda CASMI 2026:** credited copies scored 0.501, then **0.505**; rank ~164/5858 (silver zone).
 - **Google Quantum AI:** credited copies scored 33.170, then **33.170** (33.17033); rank ~325/3632 (bronze zone).
